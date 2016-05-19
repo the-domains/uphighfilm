@@ -1,0 +1,28 @@
+name: UpHighFilm
+favicon: null
+layout_spectrum: 0.11056343116797507
+typography_spectrum: 0.27871363516896963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.023556711617857218
+  lightness: 0.5806181596126407
+  saturation: 0.44413032988086343
+  rhythmicContrast: 0.6850586298387498
+purpose: []
